@@ -56,5 +56,8 @@ public class TowersOfHanoi {
 
 
         }
-    
+
+    private static void solveTowers(int totalDisks, int startPeg, int endPeg, int tempPeg) {
+    }
+
 }
